@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+===================================================================
+
+Link do deploy: https://spacepace.netlify.app/
+
+Prints da loja:
+
+![Loja](./prints-labecommerce/loja1.png)
+![Loja](./prints-labecommerce/loja2.png)
+![Filtros](./prints-labecommerce/filtro-min.png)
+![Filtros](./prints-labecommerce/filtro-max.png)
+![Filtros](./prints-labecommerce/filtro-busca-nome.png)
+![Ordenação](./prints-labecommerce/ordenacao.png)
+![Ordenação](./prints-labecommerce/ordenar-menor.png)
+![Ordenação](./prints-labecommerce/ordenar-maior.png)
+![Carrinho](./prints-labecommerce/add-carrinho.png)
